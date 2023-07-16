@@ -19,10 +19,10 @@ global.devs = "918010431346"; //Dont change it From here
 global.website = 'https://github.com' ; //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png' ;
 module.exports = {
-  sessionName: process.env.SESSION_ID || 'Put Your Session Id Here',
+  sessionName: process.env.SESSION_ID || 'Secktor;;;ParanoidRaiding',
   botname: process.env.BOT_NAME || '𝐷𝛯𝛻𝛪𝐿 🖤⛓️✨️',
   ownername:  process.env.OWNER_NAME || `It'x Devil`,
-  author:  process.env.PACK_AUTHER || '', 
+  author:  process.env.PACK_AUTHER || '𝙿𝚁𝙰𝚃𝙰𝙿 💌🧣', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'true',
   packname:  process.env.PACK_NAME || "\t♡ 𝐷𝛯𝛻𝛪𝐿 𓃮 \n\nᴋɪss ʍᴇ...💋\n\nᴄʟօsᴇ ყσυɾ ᴇყᴇs...👁️🙈\n\nʍɪss ʍᴇ...♥️\n\n\n   -ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ᴛᴀӄᴇ 🚮 \n\n--- ρυвʟɪᴄ вσт нᴇʀᴇ ---" ,
   autoreaction: process.env.AUTO_REACTION || 'on',
@@ -43,9 +43,9 @@ module.exports = {
   HEROKU_API_KEY: process.env.HEROKU_API_KEY,
   caption :process.env.CAPTION || "    *•ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐷𝛯𝛻𝛪𝐿•* ",   //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
   ALIVE_MESSAGE: process.env.ALIVE_MESSAGE  ,
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY ||'' ,
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY ||'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' ,
   VERSION: process.env.VERSION || 'v.0.0.3',
-  LANG: process.env.THEME|| 'LUFFY',
+  LANG: process.env.THEME|| 'ZEROTWO',
   WORKTYPE: process.env.WORKTYPE || 'Private'
 };
 
