@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://youtube.com/c/SuhailTechInfo">
+  <a href="">
     <img alt="secktor docs" height="300" src="https://imgur.com/a/MXmgqN3.jpeg">
   </a>
 </p>
@@ -7,7 +7,7 @@
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://wa.me/923184474178?text=Hi+Bro,+I+Need+Help+\nI+messaged+you+from+Suhail-Md+Repo" target="_blank">
+  <a aria-label="Join our chats" href="https://wa.me/918010431346?text=Hi+Bro,+I+Need+Help+\nI+messaged+you+from+Suhail-Md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
